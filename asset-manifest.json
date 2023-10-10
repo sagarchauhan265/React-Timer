@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sagarchauhan265/React-Timer/static/css/main.bd07904c.css",
+    "main.js": "/sagarchauhan265/React-Timer/static/js/main.c2241efb.js",
+    "static/js/787.c04b51b3.chunk.js": "/sagarchauhan265/React-Timer/static/js/787.c04b51b3.chunk.js",
+    "index.html": "/sagarchauhan265/React-Timer/index.html",
+    "main.bd07904c.css.map": "/sagarchauhan265/React-Timer/static/css/main.bd07904c.css.map",
+    "main.c2241efb.js.map": "/sagarchauhan265/React-Timer/static/js/main.c2241efb.js.map",
+    "787.c04b51b3.chunk.js.map": "/sagarchauhan265/React-Timer/static/js/787.c04b51b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd07904c.css",
+    "static/js/main.c2241efb.js"
+  ]
+}
